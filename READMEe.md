@@ -1,3 +1,2 @@
 # Exercise Done
-resolved
-changesssss
+local conflict
